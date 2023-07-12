@@ -1,0 +1,9 @@
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    color: black;
+}
+
+.select2-selection__choice__remove {
+    border-left: 1px solid lightgray;
+    border-radius: 0;
+    margin-left: 0;
+}

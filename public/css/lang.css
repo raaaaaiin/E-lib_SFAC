@@ -1,0 +1,9 @@
+.btn-save-proxy {
+    width: 77px;
+    position: absolute !important;
+    right: 15px;
+}
+
+td input, td button {
+    border-radius: 0px !important;;
+}

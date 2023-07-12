@@ -1,0 +1,148 @@
+.error_holder {
+    width: 100%;
+    border-radius: 0px;
+}
+
+.error_holder span {
+    border-radius: 0px;
+}
+
+.callout {
+    border-top: 1px solid lightgrey;
+}
+
+.callout button {
+    outline: 0;
+}
+
+.action_btn {
+    padding: 5px;
+    border-radius: 0;
+    width: 28px;
+    float: left;
+}
+
+.no-outline {
+    outline: 0 !important;
+}
+
+.sidebar-dark-primary .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-primary .nav-sidebar > .nav-item > .nav-link.active {
+    background-color: rgb(113 2 2);
+    color: #fff;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+
+.btn-group-xs > .btn, .btn-xs {
+    padding: 0.35rem 0.3rem;
+    font-size: 0.875rem !important;
+    line-height: .8;
+    border-radius: .2rem;
+}
+
+
+.is-hide {
+    display: none;
+}
+
+.bg-odd {
+    background-color: #e9ecef !important;
+}
+
+.border-bottom-dashed {
+    border-bottom: 2px dashed #0c0c0c;
+}
+
+.cm_edit, .cm_del {
+    padding: 5px;
+    border-radius: 0;
+    width: 28px;
+    float: left;
+}
+
+.search_tbl_iss_lst {
+    display: inline-block;
+    float: right;
+    font-size: 12px;
+    padding-top: 5px;
+}
+
+.w-50pc {
+    width: 50%;
+}
+
+.h_xs {
+    height: 31px;
+}
+.mouse{
+    cursor:pointer;
+}
+.w70_fl {
+    width: 70%;
+    float: left;
+}
+
+.w30_fl {
+    width: 30%;
+}
+
+.border-radius-0 {
+    border-radius: 0 !important;
+}
+
+.w-100px {
+    width: 100px;
+}
+
+.show_g_dt {
+    width: 80px;
+}
+
+.max-both {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.not_found_fig_caption {
+    background-color: #cccecf;
+    padding: 6px;
+    border: 1px dashed;
+}
+
+.enqir_btn {
+    width: 37px;
+    float: left;
+}
+
+.card-header {
+    border-bottom: 2px solid #e5e4e4/* Old #f4d03f */;
+}
+
+.card-header .card-header-title {
+    font-weight: bold;
+}
+
+.input-group-text {
+    border-radius: 0px !important;
+}
+
+@media screen and (max-width: 1024px) {
+}
+
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (max-width: 480px) {
+    .php_v_ok, .php_v_not_ok {
+        display: none;
+    }
+    .w-100-xs{
+        width: 100% !important;
+    }
+}
+
+@media screen and (max-width: 378px) {
+}

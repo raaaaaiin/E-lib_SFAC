@@ -1,0 +1,40 @@
+.easy-autocomplete {
+    width: 80%;
+}
+
+* {
+    border-radius: 0px;
+}
+
+#project-label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+
+#project-description {
+    margin: 0;
+    padding: 0;
+}
+
+.list-group-item + .list-group-item {
+    padding: 0.5rem;
+}
+
+#user_history, #book_history {
+    display: block;
+    color: black;
+    font-size: 15px;
+}
+
+
+@media screen and (max-width: 480px) {
+    .input-group-prepend, .input-group-text {
+        width: 100%;
+    }
+
+    .address_li {
+        height: 78px;
+    }
+}

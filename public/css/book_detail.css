@@ -1,0 +1,19 @@
+.book_holder {
+    padding-top: 6%;
+    padding-bottom: 2%;
+}
+
+h1 {
+    font-size: 2.5em;
+    font-family: serif;
+}
+
+.img_main_div_holder {
+    background-color: #d3d3d385;
+    padding-top: 2%;
+}
+
+a {
+    color: #141415;
+}
+

@@ -1,0 +1,12 @@
+.disabled {
+    opacity: 0.5;
+}
+
+.checkbox label .toggle, .checkbox-inline .toggle {
+    margin-left: unset !important;
+    margin-right: unset !important;
+}
+
+.toggle-off {
+    left: unset !important;
+}

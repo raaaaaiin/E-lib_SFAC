@@ -1,0 +1,1886 @@
+
+.sd-title > h3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 18px;
+    font: inherit;
+    vertical-align: baseline;
+    color: #000;
+    font-weight: 600;
+    float: left
+}
+
+.view-more > a {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 14px;
+    font: inherit;
+    vertical-align: baseline;
+    -webkit-transition: all .4s ease-in;
+    -moz-transition: all .4s ease-in;
+    -ms-transition: all .4s ease-in;
+    -o-transition: all .4s ease-in;
+    transition: all .4s ease-in;
+    color: #9b9b9b;
+    font-weight: 700
+}
+
+.usy-dt > img {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+    border-radius: 100px
+}
+
+.usy-name > h3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 16px;
+    font: inherit;
+    vertical-align: baseline;
+    color: #000;
+    text-transform: capitalize;
+    font-weight: 600;
+    margin-bottom: 6px;
+    margin-top: 2px
+}
+
+.usy-name > span {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 14px;
+    font: inherit;
+    vertical-align: baseline;
+    color: #b2b2b2
+}
+
+.ed-options > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    margin-bottom: 15px
+}
+
+.ed-options > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    margin-bottom: 15px
+}
+
+.ed-options > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    margin-bottom: 15px
+}
+
+.ed-options > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    margin-bottom: 15px
+}
+
+.ed-options > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    margin-bottom: 15px
+}
+
+.job_descp > h3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 18px;
+    font: inherit;
+    vertical-align: baseline;
+    color: #000;
+    font-weight: 600;
+    margin-bottom: 20px
+}
+
+.job_descp > p {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 16px;
+    font: inherit;
+    vertical-align: baseline;
+    line-height: 24px;
+    color: #686868;
+    margin-bottom: 20px
+}
+
+.skill-tags > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    display: inline-block;
+    margin-right: 6px;
+    margin-bottom: 10px
+}
+
+.skill-tags > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    display: inline-block;
+    margin-right: 6px;
+    margin-bottom: 10px
+}
+
+.skill-tags > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    display: inline-block;
+    margin-right: 6px;
+    margin-bottom: 10px
+}
+
+.skill-tags > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    display: inline-block;
+    margin-right: 6px;
+    margin-bottom: 10px
+}
+
+.skill-tags > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    display: inline-block;
+    margin-right: 6px;
+    margin-bottom: 10px
+}
+
+.job-status-bar > a {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 14px;
+    font: inherit;
+    vertical-align: baseline;
+    float: right;
+    color: #b2b2b2;
+    margin-top: 5px
+}
+
+.usy-dt > img {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+    border-radius: 100px
+}
+
+.usy-name > h3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 16px;
+    font: inherit;
+    vertical-align: baseline;
+    color: #000;
+    text-transform: capitalize;
+    font-weight: 600;
+    margin-bottom: 6px;
+    margin-top: 2px
+}
+
+.usy-name > span {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 14px;
+    font: inherit;
+    vertical-align: baseline;
+    color: #b2b2b2
+}
+
+.ed-options > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    margin-bottom: 15px
+}
+
+.ed-options > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    margin-bottom: 15px
+}
+
+.ed-options > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    margin-bottom: 15px
+}
+
+.ed-options > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    margin-bottom: 15px
+}
+
+.ed-options > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    margin-bottom: 15px
+}
+
+.job_descp > h3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 18px;
+    font: inherit;
+    vertical-align: baseline;
+    color: #000;
+    font-weight: 600;
+    margin-bottom: 20px
+}
+
+.job_descp > p {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 16px;
+    font: inherit;
+    vertical-align: baseline;
+    line-height: 24px;
+    color: #686868;
+    margin-bottom: 20px
+}
+
+.skill-tags > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    display: inline-block;
+    margin-right: 6px;
+    margin-bottom: 10px
+}
+
+.skill-tags > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    display: inline-block;
+    margin-right: 6px;
+    margin-bottom: 10px
+}
+
+.skill-tags > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    display: inline-block;
+    margin-right: 6px;
+    margin-bottom: 10px
+}
+
+.skill-tags > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    display: inline-block;
+    margin-right: 6px;
+    margin-bottom: 10px
+}
+
+.skill-tags > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    display: inline-block;
+    margin-right: 6px;
+    margin-bottom: 10px
+}
+
+.job-status-bar > a {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 14px;
+    font: inherit;
+    vertical-align: baseline;
+    float: right;
+    color: #b2b2b2;
+    margin-top: 5px
+}
+
+.usy-dt > img {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+    border-radius: 100px
+}
+
+.usy-name > h3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 16px;
+    font: inherit;
+    vertical-align: baseline;
+    color: #000;
+    text-transform: capitalize;
+    font-weight: 600;
+    margin-bottom: 6px;
+    margin-top: 2px
+}
+
+.usy-name > span {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 14px;
+    font: inherit;
+    vertical-align: baseline;
+    color: #b2b2b2
+}
+
+.ed-options > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    margin-bottom: 15px
+}
+
+.ed-options > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    margin-bottom: 15px
+}
+
+.ed-options > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    margin-bottom: 15px
+}
+
+.ed-options > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    margin-bottom: 15px
+}
+
+.ed-options > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    margin-bottom: 15px
+}
+
+.job_descp > h3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 18px;
+    font: inherit;
+    vertical-align: baseline;
+    color: #000;
+    font-weight: 600;
+    margin-bottom: 20px
+}
+
+.job_descp > p {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 16px;
+    font: inherit;
+    vertical-align: baseline;
+    line-height: 24px;
+    color: #686868;
+    margin-bottom: 20px
+}
+
+.skill-tags > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    display: inline-block;
+    margin-right: 6px;
+    margin-bottom: 10px
+}
+
+.skill-tags > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    display: inline-block;
+    margin-right: 6px;
+    margin-bottom: 10px
+}
+
+.skill-tags > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    display: inline-block;
+    margin-right: 6px;
+    margin-bottom: 10px
+}
+
+.skill-tags > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    display: inline-block;
+    margin-right: 6px;
+    margin-bottom: 10px
+}
+
+.skill-tags > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    display: inline-block;
+    margin-right: 6px;
+    margin-bottom: 10px
+}
+
+.job-status-bar > a {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 14px;
+    font: inherit;
+    vertical-align: baseline;
+    float: right;
+    color: #b2b2b2;
+    margin-top: 5px
+}
+
+.sd-title > h3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 18px;
+    font: inherit;
+    vertical-align: baseline;
+    color: #000;
+    font-weight: 600;
+    float: left
+}
+
+.sd-title > h3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 18px;
+    font: inherit;
+    vertical-align: baseline;
+    color: #000;
+    font-weight: 600;
+    float: left
+}
+
+.sd-title > h3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 18px;
+    font: inherit;
+    vertical-align: baseline;
+    color: #000;
+    font-weight: 600;
+    float: left
+}
+
+.view-more > a {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 14px;
+    font: inherit;
+    vertical-align: baseline;
+    -webkit-transition: all .4s ease-in;
+    -moz-transition: all .4s ease-in;
+    -ms-transition: all .4s ease-in;
+    -o-transition: all .4s ease-in;
+    transition: all .4s ease-in;
+    color: #9b9b9b;
+    font-weight: 700
+}
+
+.main-section {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%
+}
+
+.main-section-data {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%
+}
+
+.row {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline
+}
+
+.suggestions.full-width {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    background-color: #fff;
+    margin-bottom: 20px;
+    border-left: 1px solid #e5e5e5;
+    border-right: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5
+}
+
+.sd-title {
+    margin: 0;
+    padding: 20px;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    border-bottom: 1px solid #e5e5e5;
+    position: relative
+}
+
+.la.la-ellipsis-v {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 30px;
+    font: inherit;
+    vertical-align: baseline;
+    float: right;
+    color: #b7b7b7;
+    position: absolute;
+    right: 5px;
+    top: 15px
+}
+
+.suggestions-list {
+    margin: 0;
+    padding: 13px 0 30px 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%
+}
+
+.view-more {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding-top: 10px
+}
+
+.main-ws-sec {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%
+}
+
+.posts-section {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%
+}
+
+
+
+
+.usy-dt {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left
+}
+
+.usy-name {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    margin-left: 10px
+}
+
+.ed-opts {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: right;
+    position: relative;
+    top: 7px
+}
+
+.ed-opts-open {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 30px;
+    font: inherit;
+    vertical-align: baseline;
+    -webkit-transition: all .4s ease-in;
+    -moz-transition: all .4s ease-in;
+    -ms-transition: all .4s ease-in;
+    -o-transition: all .4s ease-in;
+    transition: all .4s ease-in;
+    color: #b2b2b2;
+    float: right;
+    position: relative;
+    left: 13px
+}
+
+.ed-options {
+    margin: 0;
+    padding: 20px;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    list-style: none;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    width: 130px;
+    background-color: #fff;
+    -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, .28);
+    -moz-box-shadow: 0 0 10px rgba(0, 0, 0, .28);
+    -ms-box-shadow: 0 0 10px rgba(0, 0, 0, .28);
+    -o-box-shadow: 0 0 10px rgba(0, 0, 0, .28);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .28);
+    opacity: 0;
+    visibility: hidden;
+    z-index: 0
+}
+
+.job_descp {
+    margin: 0;
+    padding: 0 20px 20px 20px;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    border-bottom: 1px solid #e5e5e5
+}
+
+.skill-tags {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    list-style: none;
+    float: left;
+    width: 100%
+}
+
+.job-status-bar {
+    margin: 0;
+    padding: 15px 20px;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%
+}
+
+.la.la-eye {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 20px;
+    font: inherit;
+    vertical-align: baseline;
+    margin-right: 7px;
+    position: relative;
+    top: 3px
+}
+
+.right-sidebar {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%
+}
+
+.col-lg-6 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline
+}
+
+/*!
+* Start Bootstrap - SB Admin v7.0.3 (https://startbootstrap.com/template/sb-admin)
+* Copyright 2013-2021 Start Bootstrap
+* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-sb-admin/blob/master/LICENSE)
+*/
+
+*,
+::after,
+::before {
+    box-sizing: border-box
+}
+
+@media (prefers-reduced-motion:no-preference) {
+    :root {
+        scroll-behavior: smooth
+    }
+}
+
+body {
+    margin: 0;
+    font-family: var(--bs-body-font-family);
+    font-size: var(--bs-body-font-size);
+    font-weight: var(--bs-body-font-weight);
+    line-height: var(--bs-body-line-height);
+    color: var(--bs-body-color);
+    text-align: var(--bs-body-text-align);
+    background-color: var(--bs-body-bg);
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent
+}
+
+@font-face {
+    font-family: Nexa-bold;
+    src: url(nexa-bold-webfont.woff)
+}
+
+h3 {
+    margin-top: 0;
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2
+}
+
+h3 {
+    font-size: calc(1.3rem + .6vw)
+}
+
+@media (min-width:1200px) {
+    h3 {
+        font-size: 1.75rem
+    }
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem
+}
+
+ul {
+    padding-left: 2rem
+}
+
+ul {
+    margin-top: 0;
+    margin-bottom: 1rem
+}
+
+b {
+    font-weight: bolder
+}
+
+
+
+
+img,
+svg {
+    vertical-align: middle
+}
+
+[type=button]:not(:disabled),
+[type=reset]:not(:disabled),
+[type=submit]:not(:disabled) {
+    cursor: pointer
+}
+
+::-moz-focus-inner {
+    padding: 0;
+    border-style: none
+}
+
+::-webkit-datetime-edit-day-field,
+::-webkit-datetime-edit-fields-wrapper,
+::-webkit-datetime-edit-hour-field,
+::-webkit-datetime-edit-minute,
+::-webkit-datetime-edit-month-field,
+::-webkit-datetime-edit-text,
+::-webkit-datetime-edit-year-field {
+    padding: 0
+}
+
+::-webkit-inner-spin-button {
+    height: auto
+}
+
+::-webkit-search-decoration {
+    -webkit-appearance: none
+}
+
+::-webkit-color-swatch-wrapper {
+    padding: 0
+}
+
+::-webkit-file-upload-button {
+    font: inherit
+}
+
+::file-selector-button {
+    font: inherit
+}
+
+::-webkit-file-upload-button {
+    font: inherit;
+    -webkit-appearance: button
+}
+
+@media (min-width:992px) {
+    .col-lg-3 {
+        flex: 0 0 auto;
+        width: 25%
+    }
+
+    .col-lg-6 {
+        flex: 0 0 auto;
+        width: 50%
+    }
+}
+
+.p-3 {
+    padding: 1rem !important
+}
+
+.p-4 {
+    padding: 1.5rem !important
+}
+
+body,
+html {
+    height: 100%
+}
+
+.col-lg-3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline
+}
+
+.cover-sec > img {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%
+}
+
+.cover-sec > a {
+    right: 0;
+    margin: 0;
+    padding: 10px 15px;
+    border: 1px solid #9b9b9b;
+    font-size: 16px;
+    font: inherit;
+    vertical-align: baseline;
+    -webkit-transition: all .4s ease-in;
+    -moz-transition: all .4s ease-in;
+    -ms-transition: all .4s ease-in;
+    -o-transition: all .4s ease-in;
+    transition: all .4s ease-in;
+    display: inline-block;
+    color: #9b9b9b;
+    background-color: #fff;
+    position: absolute;
+    top: 30px;
+    font-weight: 600;
+    margin-right: 15px
+}
+
+.user-pro-img > img {
+    margin: 0;
+    padding: 0;
+    border: 5px solid #fff;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: none;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+    border-radius: 100px
+}
+
+.user-pro-img > a {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    width: 40px;
+    height: 40px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+    border-radius: 100px;
+    color: #fff;
+    line-height: 40px;
+    background-color: #9b9b9b;
+    position: absolute;
+}
+
+.flw-hr > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    display: inline-block;
+    margin-right: 17px
+}
+
+.flw-status > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    display: inline-block;
+    margin-right: 50px
+}
+
+.sd-title > h3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 18px;
+    font: inherit;
+    vertical-align: baseline;
+    color: #000;
+    font-weight: 600;
+    float: left
+}
+
+.view-more > a {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 14px;
+    font: inherit;
+    vertical-align: baseline;
+    -webkit-transition: all .4s ease-in;
+    -moz-transition: all .4s ease-in;
+    -ms-transition: all .4s ease-in;
+    -o-transition: all .4s ease-in;
+    transition: all .4s ease-in;
+    color: #9b9b9b;
+    font-weight: 700
+}
+
+.user-tab-sec > h3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 40px;
+    vertical-align: baseline;
+    color: #000;
+    font-weight: 400;
+    text-transform: capitalize;
+    margin-bottom: 7px
+}
+
+.star-descp > span {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 18px;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    color: #686868;
+    font-weight: 600;
+    margin-right: 20px
+}
+
+.usy-dt > img {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+    border-radius: 100px
+}
+
+.usy-name > h3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 16px;
+    font: inherit;
+    vertical-align: baseline;
+    color: #000;
+    text-transform: capitalize;
+    font-weight: 600;
+    margin-bottom: 6px;
+    margin-top: 2px
+}
+
+.usy-name > span {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 14px;
+    font: inherit;
+    vertical-align: baseline;
+    color: #b2b2b2
+}
+
+.ed-options > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    margin-bottom: 15px
+}
+
+.job_descp > h3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 18px;
+    font: inherit;
+    vertical-align: baseline;
+    color: #000;
+    font-weight: 600;
+    margin-bottom: 20px
+}
+
+.job_descp > p {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 16px;
+    font: inherit;
+    vertical-align: baseline;
+    line-height: 24px;
+    color: #686868;
+    margin-bottom: 20px
+}
+
+.skill-tags > li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    display: inline-block;
+    margin-right: 6px;
+    margin-bottom: 10px
+}
+
+.job-status-bar > a {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 14px;
+    font: inherit;
+    vertical-align: baseline;
+    float: right;
+    color: #b2b2b2;
+    margin-top: 5px
+}
+
+.message-btn > a {
+    margin: 0;
+    padding: 12px;
+    border: 0;
+    font-size: 16px;
+    font: inherit;
+    vertical-align: baseline;
+    -webkit-transition: all .4s ease-in;
+    -moz-transition: all .4s ease-in;
+    -ms-transition: all .4s ease-in;
+    -o-transition: all .4s ease-in;
+    transition: all .4s ease-in;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    border-radius: 4px;
+    display: inline-block;
+    color: #fff;
+    background-color: #9b9b9b
+}
+
+.wd-heady > h3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 18px;
+    font: inherit;
+    vertical-align: baseline;
+    color: #000;
+    font-weight: 700;
+    float: left
+}
+
+.wd-heady > img {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: right
+}
+
+.pf-gallery > ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    list-style: none;
+    float: left;
+    width: 100%
+}
+
+div > ul > li {
+    display: inline
+}
+
+#feed-dd {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    display: block
+}
+
+.cover-sec {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    display: block;
+    float: left;
+    width: 100%;
+    position: relative
+}
+
+.main-section {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%
+}
+
+.main-section-data {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%
+}
+
+.main-left-sidebar {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    margin-top: -20px
+}
+
+.user_profile {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    background-color: #fff;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-top: 0
+}
+
+.user-pro-img {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 28px;
+    margin-top: -95px;
+    position: relative
+}
+
+.user_pro_status {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    border-bottom: 1px solid #e5e5e5;
+    padding-bottom: 27px
+}
+
+.flw-hr {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    list-style: none;
+    float: left;
+    width: 100%;
+    margin-bottom: 30px
+}
+
+.flw-status {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    list-style: none;
+    float: left;
+    width: 100%
+}
+
+.sd-title {
+    margin: 0;
+    padding: 20px;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    border-bottom: 1px solid #e5e5e5;
+    position: relative
+}
+
+.la.la-ellipsis-v {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 30px;
+    font: inherit;
+    vertical-align: baseline;
+    float: right;
+    color: #b7b7b7;
+    position: absolute;
+    right: 5px;
+    top: 15px
+}
+
+.view-more {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding-top: 10px
+}
+
+.col-lg-6 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline
+}
+
+.main-ws-sec {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%
+}
+
+.user-tab-sec {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    padding-top: 4px
+}
+
+.posts-section {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%
+}
+
+.post-bar {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    border-radius: 4px;
+    float: left;
+    width: 100%;
+    background-color: #fff;
+    border-left: 1px solid #e4e4e4;
+    border-right: 1px solid #e4e4e4;
+    border-bottom: 1px solid #e4e4e4;
+    margin-bottom: 20px
+}
+
+.post_topbar {
+    margin: 0;
+    padding: 20px 20px 15px 20px;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    position: relative
+}
+
+.usy-dt {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left
+}
+
+.usy-name {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    margin-left: 10px
+}
+
+.ed-opts {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: right;
+    position: relative;
+    top: 7px
+}
+
+.ed-opts-open {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 30px;
+    font: inherit;
+    vertical-align: baseline;
+    -webkit-transition: all .4s ease-in;
+    -moz-transition: all .4s ease-in;
+    -ms-transition: all .4s ease-in;
+    -o-transition: all .4s ease-in;
+    transition: all .4s ease-in;
+    color: #b2b2b2;
+    float: right;
+    position: relative;
+    left: 13px
+}
+
+.ed-options {
+    margin: 0;
+    padding: 20px;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    list-style: none;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    width: 130px;
+    background-color: #fff;
+    -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, .28);
+    -moz-box-shadow: 0 0 10px rgba(0, 0, 0, .28);
+    -ms-box-shadow: 0 0 10px rgba(0, 0, 0, .28);
+    -o-box-shadow: 0 0 10px rgba(0, 0, 0, .28);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .28);
+    opacity: 0;
+    visibility: hidden;
+    z-index: 0
+}
+
+.job_descp {
+    margin: 0;
+    padding: 0 20px 20px 20px;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    border-bottom: 1px solid #e5e5e5
+}
+
+.skill-tags {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    list-style: none;
+    float: left;
+    width: 100%
+}
+
+.job-status-bar {
+    margin: 0;
+    padding: 15px 20px;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%
+}
+
+.la.la-eye {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 20px;
+    font: inherit;
+    vertical-align: baseline;
+    margin-right: 7px;
+    position: relative;
+    top: 3px
+}
+
+.right-sidebar {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%
+}
+
+.message-btn {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: right;
+    margin-top: 20px;
+    margin-bottom: 30px
+}
+
+.widget.widget-portfolio {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    background-color: #fff;
+    border-left: 1px solid #e4e4e4;
+    border-right: 1px solid #e4e4e4;
+    border-bottom: 1px solid #e4e4e4;
+    margin-bottom: 20px;
+    -webkit-box-shadow: 1px 0 2px rgba(0, 0, 0, .24);
+    -moz-box-shadow: 1px 0 2px rgba(0, 0, 0, .24);
+    -ms-box-shadow: 1px 0 2px rgba(0, 0, 0, .24);
+    -o-box-shadow: 1px 0 2px rgba(0, 0, 0, .24);
+    box-shadow: 1px 0 2px rgba(0, 0, 0, .24)
+}
+
+.wd-heady {
+    margin: 0;
+    padding: 20px 20px;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    border-bottom: 1px solid #e5e5e5
+}
+
+.pf-gallery {
+    margin: 0;
+    padding: 15px 15px;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%
+}
+
+.user-tab-sec {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    float: left;
+    width: 100%;
+    padding-top: 4px
+}
+
+.la.la-ellipsis-v {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline
+}
+
+.view-more > a {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 14px;
+    font: inherit;
+    vertical-align: baseline;
+    -webkit-transition: all .4s ease-in;
+    -moz-transition: all .4s ease-in;
+    -ms-transition: all .4s ease-in;
+    -o-transition: all .4s ease-in;
+    transition: all .4s ease-in;
+    color: #9b9b9b;
+    font-weight: 700
+}
+
+.user-tab-sec > h3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 40px;
+    vertical-align: baseline;
+    color: #000;
+    font-weight: 400;
+    text-transform: capitalize;
+    margin-bottom: 7px
+}
+
+.message-btn > a {
+    margin: 0;
+    padding: 12px;
+    border: 0;
+    font-size: 16px;
+    font: inherit;
+    vertical-align: baseline;
+    -webkit-transition: all .4s ease-in;
+    -moz-transition: all .4s ease-in;
+    -ms-transition: all .4s ease-in;
+    -o-transition: all .4s ease-in;
+    transition: all .4s ease-in;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    border-radius: 4px;
+    display: inline-block;
+    color: #fff;
+    background-color: #9b9b9b
+}

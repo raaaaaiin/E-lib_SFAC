@@ -1,0 +1,67 @@
+.book_holder * {
+    border-radius: 0px !important;
+}
+
+.image_holder .input-group-prepend, .image_holder .input-group-text {
+    width: 100%;
+}
+
+.toggle_holder.input-group {
+    float: left;
+    width: 56%;
+}
+
+.sub_book_card .input-group-append .btn {
+    position: inherit;
+}
+
+.book_sub_holder {
+    border-bottom: 1px dashed;
+    margin-bottom: 2%;
+    margin-top: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.image_holder {
+    text-align: center;
+}
+
+.act_btn_holder .toggle-off {
+    width: 72px !important;
+}
+
+.w-18 {
+    width: 18%;
+}
+
+.tag_holder .input-group-prepend, .tag_holder .input-group-text,
+.author_holder .input-group-prepend, .author_holder .input-group-text,
+.publisher_holder .input-group-prepend, .publisher_holder .input-group-text {
+    width: 100% !important;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    color: black;
+}
+
+@media screen and (max-width: 1024px) {
+}
+
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (max-width: 480px) {
+    /*.w-18, .w-18 .input-group-text {*/
+    /*    width: 100%;*/
+    /*}*/
+    /*.w-18, .w-18 .input-group-text {*/
+    /*    width: 100%;*/
+    /*}*/
+    .input-group-prepend, .input-group-prepend .input-group-text {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 378px) {
+}
